@@ -49,7 +49,7 @@ const iconVariants = {
       damping: 15
     }
   }
-};
+};  
 
 export default function Projects() {
   const [ref, inView] = useInView({
